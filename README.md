@@ -1,0 +1,1 @@
+# AMD-Detection-using-EfficientNet
